@@ -1,2 +1,2 @@
 # infografika
-Interactive web service for Infodesign Agency
+Interactive web service for Infodesign Agenc
